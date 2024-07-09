@@ -1,4 +1,4 @@
-csharpCopy// ProductController.cs
+// ProductController.cs
 using Microsoft.AspNetCore.Mvc;
 using System.Collections.Generic;
 
